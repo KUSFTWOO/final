@@ -1,0 +1,104 @@
+{
+  "teams": [
+    {
+      "id": "LG",
+      "name": "LG 트윈스",
+      "stadiumName": "잠실야구장",
+      "location": "서울 송파구",
+      "regId": "11B10101",
+      "stadiumType": "천연",
+      "isDome": false,
+      "coordinates": { "x": 62, "y": 126 }
+    },
+    {
+      "id": "두산",
+      "name": "두산 베어스",
+      "stadiumName": "잠실야구장",
+      "location": "서울 송파구",
+      "regId": "11B10101",
+      "stadiumType": "천연",
+      "isDome": false,
+      "coordinates": { "x": 62, "y": 126 }
+    },
+    {
+      "id": "키움",
+      "name": "키움 히어로즈",
+      "stadiumName": "고척스카이돔",
+      "location": "서울 구로구",
+      "regId": "11B10101",
+      "stadiumType": "인조",
+      "isDome": true,
+      "coordinates": { "x": 58, "y": 125 }
+    },
+    {
+      "id": "SSG",
+      "name": "SSG 랜더스",
+      "stadiumName": "인천SSG랜더스필드",
+      "location": "인천 미추홀구",
+      "regId": "11B20201",
+      "stadiumType": "천연",
+      "isDome": false,
+      "coordinates": { "x": 55, "y": 124 }
+    },
+    {
+      "id": "KT",
+      "name": "KT 위즈",
+      "stadiumName": "수원KT위즈파크",
+      "location": "경기 수원시",
+      "regId": "11B20601",
+      "stadiumType": "천연",
+      "isDome": false,
+      "coordinates": { "x": 60, "y": 121 }
+    },
+    {
+      "id": "한화",
+      "name": "한화 이글스",
+      "stadiumName": "대전한화생명이글스파크",
+      "location": "대전 중구",
+      "regId": "11C20401",
+      "stadiumType": "천연",
+      "isDome": false,
+      "coordinates": { "x": 68, "y": 100 }
+    },
+    {
+      "id": "KIA",
+      "name": "KIA 타이거즈",
+      "stadiumName": "광주챔피언스필드",
+      "location": "광주 북구",
+      "regId": "11F20501",
+      "stadiumType": "혼합",
+      "isDome": false,
+      "coordinates": { "x": 58, "y": 74 }
+    },
+    {
+      "id": "삼성",
+      "name": "삼성 라이온즈",
+      "stadiumName": "대구삼성라이온즈파크",
+      "location": "대구 수성구",
+      "regId": "11H10701",
+      "stadiumType": "천연",
+      "isDome": false,
+      "coordinates": { "x": 89, "y": 90 }
+    },
+    {
+      "id": "NC",
+      "name": "NC 다이노스",
+      "stadiumName": "창원NC파크",
+      "location": "경남 창원시",
+      "regId": "11H20301",
+      "stadiumType": "천연",
+      "isDome": false,
+      "coordinates": { "x": 89, "y": 77 }
+    },
+    {
+      "id": "롯데",
+      "name": "롯데 자이언츠",
+      "stadiumName": "사직야구장",
+      "location": "부산 동래구",
+      "regId": "11H20201",
+      "stadiumType": "천연",
+      "isDome": false,
+      "coordinates": { "x": 98, "y": 76 }
+    }
+  ]
+}
